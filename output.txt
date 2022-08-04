@@ -1,0 +1,59 @@
+$`0`
+  node community weight edge type
+1  O-O         0      1 HomMatch 
+2  Q-Q         0      1 HomMatch 
+3  N-N         0      1 HomMatch 
+4  D-D         0      1 HomMatch 
+5  D-D         0    0.9  HetMatch
+6  M-M         0      1 HomMatch 
+
+$`1`
+    node community weight edge type
+7  14-14         1      1 HomMatch 
+8  14-14         1    0.9  HetMatch
+9    1-1         1      1 HomMatch 
+10   1-1         1    0.9  HetMatch
+11   2-2         1      1 HomMatch 
+12   P-P         1      1 HomMatch 
+13   G-G         1      1 HomMatch 
+14   G-G         1    0.9  HetMatch
+15   F-F         1      1 HomMatch 
+16   F-F         1    0.9  HetMatch
+
+$`2`
+    node community weight edge type
+17   4-4         2      1 HomMatch 
+18   4-4         2    0.9  HetMatch
+19 15-15         2      1 HomMatch 
+20 11-11         2      1 HomMatch 
+21 11-11         2    0.9  HetMatch
+22   3-3         2      1 HomMatch 
+23   5-5         2      1 HomMatch 
+24   5-5         2    0.9  HetMatch
+25   7-7         2      1 HomMatch 
+26   7-7         2    0.9  HetMatch
+27   L-L         2      1 HomMatch 
+28   L-L         2    0.9  HetMatch
+29   I-I         2      1 HomMatch 
+30   I-I         2    0.9  HetMatch
+31   C-C         2      1 HomMatch 
+32   C-C         2    0.9  HetMatch
+33   A-A         2      1 HomMatch 
+34   A-A         2    0.9  HetMatch
+35   E-E         2      1 HomMatch 
+36   E-E         2    0.9  HetMatch
+37   H-H         2      1 HomMatch 
+38   H-H         2    0.9  HetMatch
+39   B-B         2      1 HomMatch 
+40   B-B         2    0.9  HetMatch
+41   9-9         2      1 HomMatch 
+42   9-9         2    0.9  HetMatch
+43 13-13         2      1 HomMatch 
+44   6-6         2      1 HomMatch 
+45 12-12         2      1 HomMatch 
+46 12-12         2    0.9  HetMatch
+47 10-10         2      1 HomMatch 
+48 10-10         2    0.9  HetMatch
+49   8-8         2      1 HomMatch 
+50   8-8         2    0.9  HetMatch
+
